@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @KSzczepa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋 I am Klaudia
 
-<!---
-KSzczepa/KSzczepa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### About me:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning C & Python languages
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: [Gmail](mailto:klaudia.szczepanska.x@gmail.com)
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div> 
+  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ArcherWike/devicons/blob/main/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+</div>
