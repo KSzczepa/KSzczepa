@@ -4,7 +4,7 @@
 
 ### About me:
 - 🔭 I’m currently working on improving programming skills for web development by creating my own projects.
-- 🌱 I’m currently learning HTML & CSS & JS & React
+- 🌱 I’m currently learning React & NodeJS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Gmail](mailto:klaudia.szczepanska.x@gmail.com)
 
