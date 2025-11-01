@@ -3,9 +3,8 @@
 
 
 ### About me:
-- 🔭 I’m currently working on improving programming skills for web development by creating my own projects.
-- 🌱 I’m currently learning React & NodeJS
-- 💬 Ask me about ... Anything
+- 🔭 I’m a Softvare Developer currently working on improving programming skills for web development by creating my own projects.
+- 🌱 I use C++ at work, but in my free time I learn Angular, TypeScript and Java.
 - 📫 How to reach me: [Gmail](mailto:klaudia.szczepanska.x@gmail.com)
 
 
